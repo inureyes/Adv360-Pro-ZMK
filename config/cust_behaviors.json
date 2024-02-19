@@ -1,0 +1,26 @@
+[
+	{
+		"code": "LA(SPACE)",
+		"name": "LA(SPACE)",
+		"params": [
+			"code"
+		],
+		"type": "UD"
+	},
+	{
+		"code": "&kp LA(SPACE)",
+		"name": "&kp LA(SPACE)",
+		"params": [
+			"code"
+		],
+		"type": "UD"
+	},
+	{
+		"code": "&kp LG(SPACE)",
+		"name": "&kp LG(SPACE)",
+		"params": [
+			"code"
+		],
+		"type": "UD"
+	}
+]
